@@ -769,7 +769,8 @@ h2 {
   flex-direction: column;
   font-family: 'Akrobat';
   font-size: 20px;
-  background: #f7f7f7; }
+  background: #f7f7f7; 
+  margin: 0 auto;}
 
 .container {
   margin: 0 auto; }
